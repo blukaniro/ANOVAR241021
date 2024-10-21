@@ -1,0 +1,17 @@
+Treatment	Rep	SDW
+A	Rep1	0.70
+A	Rep2	0.75
+A	Rep3	0.91
+A	Rep4	0.87
+B	Rep1	0.54
+B	Rep2	0.50
+B	Rep3	0.77
+B	Rep4	0.65
+C	Rep1	0.27
+C	Rep2	0.16
+C	Rep3	0.29
+C	Rep4	0.32
+D	Rep1	0.22
+D	Rep2	0.21
+D	Rep3	0.22
+D	Rep4	0.20
